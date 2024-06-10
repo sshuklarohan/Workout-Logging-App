@@ -1,0 +1,19 @@
+{
+  "name": "Exercises",
+  "lifts": [
+    {
+      "Sets": [{
+        "Reps": 10,
+        "Weight": 100
+      }],
+      "name": "Bench Press"
+    },
+    {
+      "Sets": [{
+        "Reps": 20,
+        "Weight": 100
+      }],
+      "name": "Squat"
+    }
+  ]
+}
