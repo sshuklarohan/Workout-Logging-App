@@ -1,5 +1,4 @@
-# Workout-Logging-App
-
+# Fitness tracker app
 
 
 ## About my project
@@ -72,5 +71,6 @@ Currently, there is only one call to "new Exercises", and whenever I need access
 it as a parameter. Using the singleton pattern I wouldn't have to worry about passing it as a parameter, I could just
 have access to all my exercises in every class. Additionally, I wouldn't have to worry about any new instances of 
 "Exercises". 
+
 
 
