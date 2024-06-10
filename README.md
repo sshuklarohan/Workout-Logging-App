@@ -31,7 +31,7 @@ and exercises to file and have the option to do so or not.
 - A one rep max calculator, takes your most recent set and provides your estimated one rep max
 
 
-## Instructions for grader
+## Instructions for User
 - To add an exercise, click 'add' on the menu bar, then click add exercise then input the name of the exercise you
 want to add.
 - To add a set to an exercise, open an exercise using the sidebar, then click the green plus icon, and input your weight
@@ -44,22 +44,22 @@ click the sort by button
 - To locate my visual component go to the "home" tab
 
 ## Phase 4: task 
-Thu Apr 13 14:25:19 PDT 2023
-Exercise added
-Thu Apr 13 14:25:19 PDT 2023
-Exercise added
-Thu Apr 13 14:25:19 PDT 2023
-Exercise added
-Thu Apr 13 14:25:27 PDT 2023
-Set Added
-Thu Apr 13 14:25:33 PDT 2023
-Set Added
-Thu Apr 13 14:25:34 PDT 2023
-Set removed
-Thu Apr 13 14:25:41 PDT 2023
-Exercise added
-Thu Apr 13 14:25:45 PDT 2023
-Saved Exercises to ./data/exercises.json
+- Thu Apr 13 14:25:19 PDT 2023
+- Exercise added
+- Thu Apr 13 14:25:19 PDT 2023
+- Exercise added
+- Thu Apr 13 14:25:19 PDT 2023
+- Exercise added
+- Thu Apr 13 14:25:27 PDT 2023
+- Set Added
+- Thu Apr 13 14:25:33 PDT 2023
+- Set Added
+- Thu Apr 13 14:25:34 PDT 2023
+- Set removed
+- Thu Apr 13 14:25:41 PDT 2023
+- Exercise added
+- Thu Apr 13 14:25:45 PDT 2023
+- Saved Exercises to ./data/exercises.json
 
 
 
